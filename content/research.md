@@ -1,8 +1,17 @@
 ---
 title: Projects
-date: 2023-12-17
+date: 2024-12-01
 author: Violetta van Veen
 ---
+
+# Working papers
+
+- **Public Daycare Participation and Cognitive Development: Evidence from French Primary Schools** (with [T. Breda](http://www.parisschoolofeconomics.com/breda-thomas/index_en.html) and [D. Roy](https://www.parisschoolofeconomics.eu/en/people/delphine-roy/)) [[draft]](/uploads/daycare.pdf)
+
+This paper estimates the effects of participation in public daycare centers when children are 0-2 years old on their literacy and numeracy skills at 6.
+Using French administrative data on standardized tests at the beginning of primary school, we use the interaction between local daycare availability and being born when it is more likely to get a daycare spot as an instrumental variable for the endogenous daycare attendance. We find a positive and significant impact of daycare attendance on compliers, who tend to switch from parental care to daycare and to be biparental families in rural municipalities.
+Quantile regressions reveal that the impact of daycare is significantly stronger for the bottom end of the skills distribution than for the top one: in line with the `compensatory' model, daycare has an equalizing effect.
+Quality of childcare matters: nearly all of the positive effect is attributable to publicly managed daycare centers and longer opening hours have a significantly positive impact on cognitive skills.
 
 # Publications
 
@@ -16,12 +25,9 @@ This article aims to present a balanced bibliographic review on the genesis of t
 
 This paper analyses the association of labour market outcomes and family policies with fertility trends between 2002 and 2019 in 26 OECD countries. While the average age of mothers at birth of their children continued to increase over the entire period, these years have been marked by an initial catching-up of total fertility rates after marked declines in previous decades. Furthermore, after peaking in 2008, total fertility rates declined substantially, fueling concerns about demographic, economic and fiscal implications. Using panel data models and building on prior work, this paper links these changes in fertility outcomes to changes in the labour market position of men and women as well as with changes in family policies, such as parental leaves and early childhood education and care. This paper provides insights into the complex dynamics between family policies, employment and fertility, shedding light on the factors influencing overall population dynamics in OECD countries.
 
-
-
 # Academic Projects
 
-- "Grade repeaters: Pygmalion in the French
-educational system?"
+- "Grade repeaters: Pygmalion in the French educational system?"
 	- Econometrics Project at Paris School of Economics
 	- [PDF of the paper](/uploads/metrics_paper.pdf)
 	- [Presentation Slides](/uploads/slides_metrics_proj.pdf)

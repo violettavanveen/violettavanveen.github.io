@@ -13,6 +13,7 @@ theme = "hugo-sustain"
 [params]
   author = "Violetta van Veen"
   description = "Pre-Doctoral Research Assistant, International Inequalities Institute, London School of Economics"
+  avatar = "img/vanVeen.jpg"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
