@@ -6,6 +6,10 @@ author: Violetta van Veen
 
 # Working papers
 
+- **Tax-induced retirement of top earners** (with [A. Advani](https://arunadvani.com/), [C.S. Christensen](https://sites.google.com/view/camilla-skovbo-christensen/start) and [A. Summers](https://www.lse.ac.uk/law/people/academic-staff/andrew-summers))
+
+- **Foreign income and gains of UK residents: what can we learn from tax data?** (with [A. Advani](https://arunadvani.com/), [C. F. Olsson](https://falkmanolsson.com/) and [A. Summers](https://www.lse.ac.uk/law/people/academic-staff/andrew-summers))
+
 - **Public Daycare Participation and Cognitive Development: Evidence from French Primary Schools** (with [T. Breda](http://www.parisschoolofeconomics.com/breda-thomas/index_en.html) and [D. Roy](https://www.parisschoolofeconomics.eu/en/people/delphine-roy/)) [[draft]](/uploads/daycare.pdf)
 
 This paper estimates the effects of participation in public daycare centers when children are 0-2 years old on their literacy and numeracy skills at 6.
