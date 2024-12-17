@@ -1,0 +1,40 @@
+baseURL = "https://violettavanveen.github.io"
+languageCode = "en-US"
+title = "Violetta van Veen"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  author = "Violetta van Veen"
+  description = "Pre-Doctoral Research Assistant, International Inequalities Institute, London School of Economics"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "violettavanveen"
+  LinkedIn      = "violetta-van-veen"
+
+## Main Menu
+[[menu.main]]
+  name = "about"
+  identifier = "about"
+  weight = 100
+  url = "/about/"
+[[menu.main]]
+  name = "research"
+  identifier = "research"
+  weight = 200
+  url = "/research/"
+[[menu.main]]
+  name = "resume"
+  identifier = "CV"
+  weight = 300
+  url = "/uploads/cv.pdf"
